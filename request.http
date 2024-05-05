@@ -1,0 +1,13 @@
+GET http://localhost:3008/ada/
+
+###
+POST http://localhost:3008/ada/cambien3/54
+
+###
+POST http://localhost:3008/ada/cambien1/34
+
+###
+POST http://localhost:3008/ada/nutnhan1/1
+
+###
+POST http://localhost:3008/ada/nutnhan2/1
